@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-07-13T22:48:07 EET" name="Default suite" finished-at="2024-07-13T22:48:40 EET" duration-ms="33256">
+    <groups>
+    </groups>
+    <test started-at="2024-07-13T22:48:07 EET" name="Default test" finished-at="2024-07-13T22:48:40 EET" duration-ms="33256">
+      <class name="TestEducationalsite">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:TestEducationalsite@7f36662c]" started-at="2024-07-13T22:48:07 EET" name="setUp" finished-at="2024-07-13T22:48:08 EET" duration-ms="1499" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="theTestInput()[pri:1, instance:TestEducationalsite@7f36662c]" started-at="2024-07-13T22:48:08 EET" name="theTestInput" finished-at="2024-07-13T22:48:13 EET" duration-ms="4774" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- theTestInput -->
+        <test-method signature="theTestInput()[pri:1, instance:TestEducationalsite@7f36662c]" started-at="2024-07-13T22:48:13 EET" name="theTestInput" finished-at="2024-07-13T22:48:18 EET" duration-ms="5285" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- theTestInput -->
+        <test-method signature="theTestInput()[pri:1, instance:TestEducationalsite@7f36662c]" started-at="2024-07-13T22:48:18 EET" name="theTestInput" finished-at="2024-07-13T22:48:24 EET" duration-ms="5730" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- theTestInput -->
+        <test-method signature="theTestInput()[pri:1, instance:TestEducationalsite@7f36662c]" started-at="2024-07-13T22:48:24 EET" name="theTestInput" finished-at="2024-07-13T22:48:29 EET" duration-ms="4478" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- theTestInput -->
+        <test-method signature="TestRandomData()[pri:2, instance:TestEducationalsite@7f36662c]" started-at="2024-07-13T22:48:29 EET" name="TestRandomData" finished-at="2024-07-13T22:48:32 EET" duration-ms="2998" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestRandomData -->
+        <test-method signature="TestRandomData()[pri:2, instance:TestEducationalsite@7f36662c]" started-at="2024-07-13T22:48:32 EET" name="TestRandomData" finished-at="2024-07-13T22:48:34 EET" duration-ms="2684" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestRandomData -->
+        <test-method signature="TestRandomData()[pri:2, instance:TestEducationalsite@7f36662c]" started-at="2024-07-13T22:48:34 EET" name="TestRandomData" finished-at="2024-07-13T22:48:37 EET" duration-ms="2670" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestRandomData -->
+        <test-method signature="TestRandomData()[pri:2, instance:TestEducationalsite@7f36662c]" started-at="2024-07-13T22:48:37 EET" name="TestRandomData" finished-at="2024-07-13T22:48:40 EET" duration-ms="2716" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestRandomData -->
+        <test-method is-config="true" signature="postTesting()[pri:0, instance:TestEducationalsite@7f36662c]" started-at="2024-07-13T22:48:40 EET" name="postTesting" finished-at="2024-07-13T22:48:40 EET" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postTesting -->
+      </class> <!-- TestEducationalsite -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
